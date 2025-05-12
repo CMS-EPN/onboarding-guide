@@ -6,7 +6,7 @@ Para comenzar a trabajar con REANA, es fundamental primero aprender las tecnolog
 
 ### Pasos recomendados  
 
-1. **Explorar tecnologías clave**: Dedica tiempo a aprender y practicar con Docker, Kubernetes y K8s. Estas tecnologías son la base de REANA y te ayudarán a comprender su arquitectura y funcionamiento.  
+1. **Explorar tecnologías clave**: Dedica tiempo a aprender y practicar con Docker, Kubernetes y reana-client. Estas tecnologías son la base de REANA y te ayudarán a comprender su arquitectura y funcionamiento.  
 2. **Revisar el workshop**: Asegúrate de haber completado la sección de *Cloud Computing* y *Docker* en el workshop recomendado previamente.  
 3. **Correr REANA localmente**: Una vez que tengas un buen entendimiento de las tecnologías clave, aprende cómo instalar y configurar REANA en tu máquina local.  
 
