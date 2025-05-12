@@ -4,6 +4,10 @@
 
 Para comenzar a trabajar con REANA, es fundamental primero aprender las tecnologías clave que sustentan su funcionamiento. Familiarízate con herramientas como Docker, Kubernetes, reana-client ya que son esenciales para entender y trabajar con REANA.  
 
+### Enlace a la documentación oficial  
+
+[Documentación oficial de REANA](https://hsf-training.github.io/hsf-training-reana-webpage/).  
+
 ### Pasos recomendados  
 
 1. **Explorar tecnologías clave**: Dedica tiempo a aprender y practicar con Docker, Kubernetes y reana-client. Estas tecnologías son la base de REANA y te ayudarán a comprender su arquitectura y funcionamiento.  
