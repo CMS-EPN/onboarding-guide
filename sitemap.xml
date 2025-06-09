@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://cms-epn.github.io/onboarding-guide/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cms-epn.github.io/onboarding-guide/introduccion/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cms-epn.github.io/onboarding-guide/primeros-pasos/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cms-epn.github.io/onboarding-guide/REANA/introduccion/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cms-epn.github.io/onboarding-guide/REANA/reanahub-docs/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+</urlset>
