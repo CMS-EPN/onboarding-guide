@@ -6,7 +6,7 @@ En esta sección, te guiaremos a través de los primeros pasos recomendados para
 
 Para familiarizarte con los conceptos básicos y las herramientas utilizadas en el CMS, te recomendamos realizar los **workshops de CMS Open Data**. Estos talleres están diseñados para proporcionar una introducción práctica y teórica al análisis de datos del CMS y sus herramientas.  
 
-[CMS Open Data Workshops](https://cms-opendata-guide.web.cern.ch/cmsOpenData/workshops/#cms-open-data-workshops)
+<a href="https://cms-opendata-guide.web.cern.ch/cmsOpenData/workshops/#cms-open-data-workshops" target="_blank">CMS Open Data Workshops</a>
 
 ### Workshop Recomendado  
 

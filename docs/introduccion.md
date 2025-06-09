@@ -8,4 +8,5 @@ El CMS es una colaboración internacional que reúne a científicos, ingenieros 
 
 En esta guía, exploraremos cómo puedes involucrarte en el CMS desde la EPN, qué recursos son esenciales para tu aprendizaje y cómo puedes contribuir a esta emocionante colaboración científica.
 
-Para más información, puedes visitar la página oficial del CMS en el CERN: [CMS Experiment](https://www.home.cern/science/experiments/cms).
+Para más información, puedes visitar la página oficial del CMS en el CERN:  
+<a href="https://www.home.cern/science/experiments/cms" target="_blank">CMS Experiment</a>
