@@ -1,6 +1,8 @@
 site_name: CMS EPN Onboarding
 site_description: A guide to onboarding new users to the CMS EPN
 site_url: https://cms-epn.github.io/onboarding-guide/
+repo_url: https://github.com/CMS-EPN/onboarding-guide
+repo_name: CMS-EPN/onboarding-guide
 theme:
   name: material
   font:
